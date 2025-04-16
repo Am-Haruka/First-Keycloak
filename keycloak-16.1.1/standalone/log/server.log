@@ -110,9 +110,9 @@ WARNING: All illegal access operations will be denied in a future release
 [0m[0m06:01:50,422 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0051: Admin console listening on http://127.0.0.1:9990
 [0m[33m06:17:23,192 WARN  [org.jboss.as.server.deployment.scanner] (DeploymentScanner-threads - 2) WFLYDS0037: /workspace/spring-petclinic/keycloak-16.1.1/standalone/deployments does not exist
 [0m[33m06:17:23,192 WARN  [org.jboss.as.server.deployment.scanner] (DeploymentScanner-threads - 2) WFLYDS0043: Deployment directory scan failed due to inaccessible deployment directory: /workspace/spring-petclinic/keycloak-16.1.1/standalone/deployments
-[0mead Pool -- 58) HV000001: Hibernate Validator 6.0.22.Final
-2025-04-16 06:01:49,171 INFO  [org.hibernate.hql.internal.QueryTranslatorFactoryInitiator] (ServerService Thread Pool -- 58) HHH000397: Using ASTQueryTranslatorFactory
-2025-04-16 06:01:49,707 INFO  [org.keycloak.services] (ServerService Thread Pool -- 58) KC-SERVICES0006: Importing users from '/workspace/spring-petclinic/keycloak-16.1.1/standalone/configuration/keycloak-add-user.json'
+[0m[0m06:21:34,129 INFO  [org.jboss.as.repository] (ServerService Thread Pool -- 28) WFLYDR0011: Couldn't list directory files for /workspace/spring-petclinic/keycloak-16.1.1/standalone/data/content
+[0m[0m06:26:34,130 INFO  [org.jboss.as.repository] (ServerService Thread Pool -- 28) WFLYDR0011: Couldn't list directory files for /workspace/spring-petclinic/keycloak-16.1.1/standalone/data/content
+[0mdalone/configuration/keycloak-add-user.json'
 2025-04-16 06:01:49,857 WARN  [org.keycloak.services] (ServerService Thread Pool -- 58) KC-SERVICES0104: Not creating user admin. It already exists.
 2025-04-16 06:01:50,147 INFO  [org.jboss.resteasy.resteasy_jaxrs.i18n] (ServerService Thread Pool -- 58) RESTEASY002225: Deploying javax.ws.rs.core.Application: class org.keycloak.services.resources.KeycloakApplication
 2025-04-16 06:01:50,149 INFO  [org.jboss.resteasy.resteasy_jaxrs.i18n] (ServerService Thread Pool -- 58) RESTEASY002200: Adding class resource org.keycloak.services.resources.JsResource from Application class org.keycloak.services.resources.KeycloakApplication
@@ -132,3 +132,5 @@ WARNING: All illegal access operations will be denied in a future release
 2025-04-16 06:01:50,422 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0051: Admin console listening on http://127.0.0.1:9990
 2025-04-16 06:17:23,192 WARN  [org.jboss.as.server.deployment.scanner] (DeploymentScanner-threads - 2) WFLYDS0037: /workspace/spring-petclinic/keycloak-16.1.1/standalone/deployments does not exist
 2025-04-16 06:17:23,192 WARN  [org.jboss.as.server.deployment.scanner] (DeploymentScanner-threads - 2) WFLYDS0043: Deployment directory scan failed due to inaccessible deployment directory: /workspace/spring-petclinic/keycloak-16.1.1/standalone/deployments
+2025-04-16 06:21:34,129 INFO  [org.jboss.as.repository] (ServerService Thread Pool -- 28) WFLYDR0011: Couldn't list directory files for /workspace/spring-petclinic/keycloak-16.1.1/standalone/data/content
+2025-04-16 06:26:34,130 INFO  [org.jboss.as.repository] (ServerService Thread Pool -- 28) WFLYDR0011: Couldn't list directory files for /workspace/spring-petclinic/keycloak-16.1.1/standalone/data/content
