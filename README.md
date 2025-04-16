@@ -1,5 +1,3 @@
----
-```markdown
 # First-Keycloak (WildFly版 Keycloak 16.1.1 on Gitpod)
 
 このリポジトリは、Gitpod 上に Keycloak (WildFly版) をセットアップし、ブラウザから管理コンソールを使用する環境構築例です。
@@ -70,5 +68,3 @@ https://8080-abcdef1234.ws-us123.gitpod.io/auth
 ## 📝 ライセンス
 
 MIT License（またはお好みで）
-
-```
