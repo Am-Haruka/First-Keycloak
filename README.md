@@ -67,4 +67,4 @@ https://8080-abcdef1234.ws-us123.gitpod.io/auth
 
 ## 📝 ライセンス
 
-MIT License（またはお好みで）
+MIT License
