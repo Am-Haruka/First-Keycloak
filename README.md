@@ -1,3 +1,4 @@
+---
 ```markdown
 # First-Keycloak (WildFly版 Keycloak 16.1.1 on Gitpod)
 
@@ -68,6 +69,6 @@ https://8080-abcdef1234.ws-us123.gitpod.io/auth
 
 ## 📝 ライセンス
 
-MIT License
+MIT License（またはお好みで）
 
 ```

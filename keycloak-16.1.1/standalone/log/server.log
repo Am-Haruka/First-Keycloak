@@ -114,8 +114,8 @@ WARNING: All illegal access operations will be denied in a future release
 [0m[0m06:26:34,130 INFO  [org.jboss.as.repository] (ServerService Thread Pool -- 28) WFLYDR0011: Couldn't list directory files for /workspace/spring-petclinic/keycloak-16.1.1/standalone/data/content
 [0m[0m06:31:34,131 INFO  [org.jboss.as.repository] (ServerService Thread Pool -- 65) WFLYDR0011: Couldn't list directory files for /workspace/spring-petclinic/keycloak-16.1.1/standalone/data/content
 [0m[0m06:36:34,132 INFO  [org.jboss.as.repository] (ServerService Thread Pool -- 66) WFLYDR0011: Couldn't list directory files for /workspace/spring-petclinic/keycloak-16.1.1/standalone/data/content
-[0mpplication
-2025-04-16 06:01:50,149 INFO  [org.jboss.resteasy.resteasy_jaxrs.i18n] (ServerService Thread Pool -- 58) RESTEASY002200: Adding class resource org.keycloak.services.resources.JsResource from Application class org.keycloak.services.resources.KeycloakApplication
+[0m[0m06:41:34,133 INFO  [org.jboss.as.repository] (ServerService Thread Pool -- 28) WFLYDR0011: Couldn't list directory files for /workspace/spring-petclinic/keycloak-16.1.1/standalone/data/content
+[0m Application class org.keycloak.services.resources.KeycloakApplication
 2025-04-16 06:01:50,149 INFO  [org.jboss.resteasy.resteasy_jaxrs.i18n] (ServerService Thread Pool -- 58) RESTEASY002205: Adding provider class org.keycloak.services.error.KeycloakErrorHandler from Application class org.keycloak.services.resources.KeycloakApplication
 2025-04-16 06:01:50,149 INFO  [org.jboss.resteasy.resteasy_jaxrs.i18n] (ServerService Thread Pool -- 58) RESTEASY002205: Adding provider class org.keycloak.services.filters.KeycloakSecurityHeadersFilter from Application class org.keycloak.services.resources.KeycloakApplication
 2025-04-16 06:01:50,149 INFO  [org.jboss.resteasy.resteasy_jaxrs.i18n] (ServerService Thread Pool -- 58) RESTEASY002200: Adding class resource org.keycloak.services.resources.ThemeResource from Application class org.keycloak.services.resources.KeycloakApplication
@@ -136,3 +136,4 @@ WARNING: All illegal access operations will be denied in a future release
 2025-04-16 06:26:34,130 INFO  [org.jboss.as.repository] (ServerService Thread Pool -- 28) WFLYDR0011: Couldn't list directory files for /workspace/spring-petclinic/keycloak-16.1.1/standalone/data/content
 2025-04-16 06:31:34,131 INFO  [org.jboss.as.repository] (ServerService Thread Pool -- 65) WFLYDR0011: Couldn't list directory files for /workspace/spring-petclinic/keycloak-16.1.1/standalone/data/content
 2025-04-16 06:36:34,132 INFO  [org.jboss.as.repository] (ServerService Thread Pool -- 66) WFLYDR0011: Couldn't list directory files for /workspace/spring-petclinic/keycloak-16.1.1/standalone/data/content
+2025-04-16 06:41:34,133 INFO  [org.jboss.as.repository] (ServerService Thread Pool -- 28) WFLYDR0011: Couldn't list directory files for /workspace/spring-petclinic/keycloak-16.1.1/standalone/data/content
