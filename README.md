@@ -65,6 +65,14 @@ https://8080-abcdef1234.ws-us123.gitpod.io/auth
 
 ---
 
+## 🔧 詳細手順まとめ
+
+Gitpod 上での Keycloak 16.1.1（WildFly 版）の構築・起動方法についての詳細は、以下をご覧ください：
+
+📄 [keycloak_gitpod_setup_summary.md](./keycloak_gitpod_setup_summary.md)
+
+---
+
 ## 📝 ライセンス
 
 MIT License
